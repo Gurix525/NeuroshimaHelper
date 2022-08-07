@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NeuroshimaDB.Views.ArticlesPage"
+    Title="{Binding Title}"
+    xmlns:local="clr-namespace:NeuroshimaDB.ViewModels"
+    xmlns:model="clr-namespace:NeuroshimaDB.Models"
+    x:Name="BrowseItemsPage">
+
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="Add"
+            Command="{Binding AddItemCommand}" />
+    </ContentPage.ToolbarItems>-->
+    <!--
+      x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
+      https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
+    -->
+
+    <StackLayout
+        Padding="0, 0, 0, 0">
+        <Picker
+            x:Name="RegionPicker"
+            Title="Wybierz region"
+            TitleColor="Silver"
+            BackgroundColor="AliceBlue"
+            HeightRequest="65"
+            TextColor="Black"
+            SelectedIndexChanged="OnRegionPickerSelectionChanged">
+            <Picker.SelectedIndex>
+                0
+            </Picker.SelectedIndex>
+            <Picker.ItemsSource>
+                <x:Array
+                    Type="{x:Type x:String}">
+                    <x:String>Bez regionu</x:String>
+                    <x:String>Detroit</x:String>
+                    <x:String>Federacja Appalachów</x:String>
+                    <x:String>Hegemonia</x:String>
+                    <x:String>Nowy Jork</x:String>
+                    <x:String>Miami</x:String>
+                    <x:String>Posterunek</x:String>
+                    <x:String>Missisipi</x:String>
+                    <x:String>Pustynia</x:String>
+                    <x:String>Teksas</x:String>
+                    <x:String>Vegas</x:String>
+                    <x:String>Salt Lake City</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Entry
+            x:Name="ArticleNameEntry"
+            x:DataType="local:ArticlesViewModel"
+            TextChanged="OnArticleNameTextChanged"
+            BackgroundColor="AliceBlue"
+            TextColor="Black"
+            Placeholder="Wpisz, czego potrzebujesz"
+            PlaceholderColor="Silver"
+            HeightRequest="65">
+        </Entry>
+
+        <Grid
+            Padding="0, 5, 0, 5"
+            BackgroundColor="Silver">
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="Artykuł"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="Cena"
+                    TextColor="Black"
+                    FontSize="Small"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="%"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+
+        <ContentView
+            x:DataType="local:ArticlesViewModel">
+            <CollectionView
+                x:Name="ArticlesListView"
+                ItemsSource="{Binding Articles}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid
+                            Padding="0, 0, 0, 5"
+                            x:DataType="model:Article">
+                            <Grid.RowDefinitions>
+                                <RowDefinition
+                                    Height="65"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition
+                                    Width="4*"></ColumnDefinition>
+                                <ColumnDefinition
+                                    Width="1*"></ColumnDefinition>
+                                <ColumnDefinition
+                                    Width="1*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    NumberOfTapsRequired="1"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:ArticlesViewModel}}, Path=ArticleTapped}"
+                                    CommandParameter="{Binding .}">
+                                </TapGestureRecognizer>
+                            </Grid.GestureRecognizers>
+                            <ContentView
+                                BackgroundColor="AliceBlue"
+                                Grid.Column="0"
+                                Padding="10">
+                                <Label
+                                    Text="{Binding Name}"
+                                    TextColor="Black"
+                                    FontSize="Medium"
+                                    VerticalOptions="Center">
+                                </Label>
+                            </ContentView>
+                            <ContentView
+                                BackgroundColor="AliceBlue"
+                                Grid.Column="1"
+                                Padding="10">
+                                <Label
+                                    Text="{Binding Price}"
+                                    TextColor="Black"
+                                    FontSize="Medium"
+                                    VerticalOptions="Center"
+                                    HorizontalOptions="Center">
+                                </Label>
+                            </ContentView>
+                            <ContentView
+                                BackgroundColor="AliceBlue"
+                                Grid.Column="2"
+                                Padding="10">
+                                <Label
+                                    Text="{Binding Availability, StringFormat='{0}%'}"
+                                    TextColor="Black"
+                                    FontSize="Medium"
+                                    VerticalOptions="Center"
+                                    HorizontalOptions="Center">
+                                </Label>
+                            </ContentView>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </ContentView>
+    </StackLayout>
+</ContentPage>

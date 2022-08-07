@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NeuroshimaDB.Views.LocationDetailPage"
+    xmlns:local="clr-namespace:NeuroshimaDB.ViewModels"
+    xmlns:model="clr-namespace:NeuroshimaDB.Models"
+    xmlns:behaviors="clr-namespace:NeuroshimaDB.Behaviors"
+    xmlns:services="clr-namespace:NeuroshimaDB.Services"
+    Title="{Binding Title}">
+    <ContentPage.Resources>
+        <Style
+            TargetType="Label"
+            Class="HiddenLevelTitleLabel">
+            <Setter
+                Property="FontAttributes"
+                Value="Bold" />
+            <Setter
+                Property="FontSize"
+                Value="Medium" />
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+        </Style>
+        <Style
+            TargetType="Label"
+            Class="HiddenLevelTextLabel">
+            <Setter
+                Property="FontSize"
+                Value="Medium" />
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+        </Style>
+        <Style
+            TargetType="Label"
+            Class="HeaderLabel">
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+            <Setter
+                Property="FontSize"
+                Value="Medium" />
+            <Setter
+                Property="FontAttributes"
+                Value="Bold" />
+            <Setter
+                Property="VerticalOptions"
+                Value="Center" />
+        </Style>
+        <services:DangerToColorValueConverter
+            x:Key="DangerToColorValueConverter" />
+    </ContentPage.Resources>
+    <StackLayout
+        Spacing="5">
+        <Grid
+            Padding="0, 5, 0, 5"
+            BackgroundColor="Silver">
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="Lokacja"
+                    StyleClass="HeaderLabel">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="PT"
+                    StyleClass="HeaderLabel"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="MOD"
+                    StyleClass="HeaderLabel"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="{Binding Name}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="{Binding DifficultyLevel}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="{Binding Modifier}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+        <Button
+            HeightRequest="65"
+            FontSize="Medium"
+            Text="Wygeneruj lokację ponownie"
+            Command="{Binding RandomizeAgain}" />
+        <ScrollView>
+            <StackLayout>
+                <StackLayout
+                    BackgroundColor="{Binding Danger, Converter={StaticResource DangerToColorValueConverter}}"
+                    Padding="10">
+                    <Label
+                        StyleClass="HiddenLevelTitleLabel"
+                        Text="Niebezpieczeństwo" />
+                    <Label
+                        StyleClass="HiddenLevelTextLabel"
+                        Text="{Binding Danger}" />
+                </StackLayout>
+                <StackLayout
+                    BackgroundColor="#f0f8ff"
+                    Padding="10">
+                    <Label
+                        StyleClass="HiddenLevelTitleLabel"
+                        Text="Poziom ukrycia 1:" />
+                    <Label
+                        StyleClass="HiddenLevelTextLabel"
+                        Text="{Binding Articles1}" />
+                </StackLayout>
+                <StackLayout
+                    BackgroundColor="#f0fff7"
+                    Padding="10">
+                    <Label
+                        Text="Poziom ukrycia 2:"
+                        StyleClass="HiddenLevelTitleLabel" />
+                    <Label
+                        StyleClass="HiddenLevelTextLabel"
+                        Text="{Binding Articles2}" />
+                </StackLayout>
+                <StackLayout
+                    BackgroundColor="#fff7f0"
+                    Padding="10">
+                    <Label
+                        Text="Poziom ukrycia 3:"
+                        StyleClass="HiddenLevelTitleLabel" />
+                    <Label
+                        StyleClass="HiddenLevelTextLabel"
+                        Text="{Binding Articles3}" />
+                </StackLayout>
+                <StackLayout
+                    BackgroundColor="#fff0f8"
+                    Padding="10">
+                    <Label
+                        Text="Gruzowisko:"
+                        StyleClass="HiddenLevelTitleLabel" />
+                    <Label
+                        StyleClass="HiddenLevelTextLabel"
+                        Text="{Binding Articles4}" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>

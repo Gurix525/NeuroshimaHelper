@@ -1,0 +1,2402 @@
+Alkohol (samogon, litr)
+5
+70
+Alkohol podłej jakości; ale przecież nie pijesz tego dla smaku, prawda? Procenty się zgadzają, odkażać, odkaża... bierz i nie marudź.
+picie, jedzenie, spożywcze, wódka, wóda, wudka, wuda, whisky, piwo, wino, śliwowica, likier, gin, ajerkoniak
+zywnosc
+
+Alkohol (markowy, litr)
+10
+20
+Wysokiej klasy trunki, dziś już takich nie pędzą. Aż dziw, że dotrwały naszych czasów. Cóż, nie kuśmy losu, pijmy.
+picie, jedzenie, spożywcze, wódka, wóda, wudka, wuda, whisky, piwo, wino, śliwowica, likier, gin, ajerkoniak
+zywnosc
+
+Papieros (1 sztuka)
+1
+60
+Czy zajarasz ze mną szluga? No chodź zrobimy to. Tak dawno nie paliłam, no. Nie chowaj się. Rzuciłaś już czy co?
+spożywcze, tytoń, cygaro, pet, szlug, jaranie, palenie
+inne
+
+Tytoń do żucia (porcja)
+2
+80
+Łatwiej to dopaść niż zwykłego szluga, a efekt prawie ten sam. Smacznego, czy coś.
+spożywcze, tytoń, cygaro, pet, szlug, jaranie, palenie
+inne
+
+.38" – Amunicja rewolwerowa
+2
+40
+Samodzielna produkcja: problematyczna
+amunicja, rewolwer, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+.40-44" – Amunicja rewolwerowa
+2
+20
+Samodzielna porodukcja: przeciętna
+amunicja, rewolwer, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+.44" Magnum – Amunicja rewolwerowa
+3
+30
+Samodzielna produkcja: Bardzo trudna
+amunicja, rewolwer, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+5,7mm – Amunicja pistoletowa
+3
+10
+Samodzielna produkcja: Cholernie trudna
+amunicja, pistolet, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+7,62mm TT – Amunicja pistoletowa
+2
+30
+Samodzielna produkcja: Bardzo trudna
+amunicja, pistolet, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+9mm – Amunicja pistoletowa
+3
+40
+Samodzielna produkcja: Trudna
+amunicja, pistolet, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+45ACP – Amunicja pistoletowa
+2
+40
+Samodzielna produkcja: Trudna
+amunicja, pistolet, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+50.AE – Amunicja pistoletowa
+2
+10
+Samodzielna produkcja: Bardzo trudna
+amunicja, pistolet, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+.22" – Amunicja karabinowa
+2
+50
+Samodzielna produkcja: Problematyczna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+5,56mm – Amunicja karabinowa
+3
+40
+Samodzielna produkcja: Trudna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+7,62mm – Amunicja karabinowa
+3
+40
+Samodzielna produkcja: Trudna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+7,62mm AK – Amunicja karabinowa
+2
+30
+Samodzielna produkcja: Trudna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje, kalach, kałach, kalasznikow, kałasznikow
+bron
+
+.50BMG – Amunicja karabinowa
+2
+40
+Samodzielna produkcja: Bardzo trudna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+.12 – Amunicja karabinowa
+2
+50
+Samodzielna produkcja: Przeciętna
+amunicja, karabin, nabój, gnat, proch, łuska, łuski, nabój, naboje
+bron
+
+Granat 20mm
+50
+10
+Obrażenia: <b>Pd. główny, str. 187.</b><br><br>To jest granat. Gdy wyciągniesz z niego zawleczckę i rzucisz, to do trzech liczyć będziesz, nie do dwóch, czy nawet czterech, ale trzy będzie twoją liczbą. Gdy już doliczysz, to lepiej, żebyś nie wyglądał zza węgła w co trafiłeś, bo wtedy właśnie granat eksploduje i powietrze zaroi się od małych, kąśliwych fragmentów skorupy, naciętego drutu czy innego cholerstwa, którym jest on wypełniony. Jeśli coś takiego zrobisz, chłopcze, to już po tobie.<br><br>Granaty można podzielić na kilka typów. Zaczepne, takie jak tu widzisz, to walce z cienkiej blachy z nawiniętym w środku ponacinanym drutem. Rzucasz to przed siebie  wybucha, ale odłamków sieje niewiele, ot tyle, aby przeciwnik leżał i kwiczał, a tobie szarżującemu na niego z odległości 30 metrów nie stała się krzywda. <br><br>Drugim typem jest granat obronny, rzucasz go w chwili, gdy do twojej kryjówki zamierza przytruchtać gość ściskający w rękach piłę łańcuchową. Sieje to odłamkami dookoła, aż miło. Na sześćdziesiąt metrów co najmniej, więc lepiej w takiej chwili głowę trzymać nisko. Najczęściej granaty te wyglądają jak jajka, z gęsto ponacinaną, żeliwną skorupą.<br><br>Innym typem granatów są zapalające  rzucasz taki przedmiocik, a on po chwili zamienia kawałek terenu  tak w promieniu pięciu, dziesięciu metrów  w przedsionek piekła. Gorąca rzecz, taki fosfor, mówię ci.<br><br>Możesz gdzieniegdzie natrafić na jeszcze inne granaty  gazowe. Najczęściej będzie to gaz łzawiący, na walcu znajdziesz wydrapane litery CS. Czasami się przydaje, gdy nie masz ochoty zabijać, a wziąć drani żywcem.<br><br>Bywają też granaty dymne, ot wyciągasz zawleczkę, rzucasz i za chwilę pół okolicy ginie w białym, zielonym, czcerwonym albo niebieskim dymie. Do wyboru, do koloru.<br><br>Ostatnim typem, jaki ci pokażę, są granaty robiące "BANG!", czcyli ogłuszające, a dokładniej ogłuszającooślepiające. Wrzucasz taki granat do bunkra, w którym kilku drabów trzyma twoją ukochaną, on wydaje z siebie potworny huk, coś na kształt pierdnięcia smoka, a na dodatek razi oczy cholernie jasnym błyskiem. Krzywdy tym nikomu nie zrobisz, ale potrakotwane takim wesołym przedmiotem towarzystwo przez dobre kilka chwil nie będzie wiedziało, gdzie jest, co ma robić i dlaczego ktoś do nich strzela. No, fakt, przez jakieś dwa tygodnie twoje kochanie będzie głuche jak pień, ale przecież będzie żyła, a o to w tym chodziło, co nie?<br><br>I jeszcze jedno – granaty używane są zwykle do zwalczania celów żywych, ale gdy zwiążesz ich kilka naraz, to odpowiednio rzucone mogą nawet zerwać gąsienice jakiegoś pojazdu Molocha.
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Granat 40mm
+40
+20
+Obrażenia: <b>Pd. główny, str. 187.</b><br><br>To jest granat. Gdy wyciągniesz z niego zawleczckę i rzucisz, to do trzech liczyć będziesz, nie do dwóch, czy nawet czterech, ale trzy będzie twoją liczbą. Gdy już doliczysz, to lepiej, żebyś nie wyglądał zza węgła w co trafiłeś, bo wtedy właśnie granat eksploduje i powietrze zaroi się od małych, kąśliwych fragmentów skorupy, naciętego drutu czy innego cholerstwa, którym jest on wypełniony. Jeśli coś takiego zrobisz, chłopcze, to już po tobie.<br><br>Granaty można podzielić na kilka typów. Zaczepne, takie jak tu widzisz, to walce z cienkiej blachy z nawiniętym w środku ponacinanym drutem. Rzucasz to przed siebie  wybucha, ale odłamków sieje niewiele, ot tyle, aby przeciwnik leżał i kwiczał, a tobie szarżującemu na niego z odległości 30 metrów nie stała się krzywda. <br><br>Drugim typem jest granat obronny, rzucasz go w chwili, gdy do twojej kryjówki zamierza przytruchtać gość ściskający w rękach piłę łańcuchową. Sieje to odłamkami dookoła, aż miło. Na sześćdziesiąt metrów co najmniej, więc lepiej w takiej chwili głowę trzymać nisko. Najczęściej granaty te wyglądają jak jajka, z gęsto ponacinaną, żeliwną skorupą.<br><br>Innym typem granatów są zapalające  rzucasz taki przedmiocik, a on po chwili zamienia kawałek terenu  tak w promieniu pięciu, dziesięciu metrów  w przedsionek piekła. Gorąca rzecz, taki fosfor, mówię ci.<br><br>Możesz gdzieniegdzie natrafić na jeszcze inne granaty  gazowe. Najczęściej będzie to gaz łzawiący, na walcu znajdziesz wydrapane litery CS. Czasami się przydaje, gdy nie masz ochoty zabijać, a wziąć drani żywcem.<br><br>Bywają też granaty dymne, ot wyciągasz zawleczkę, rzucasz i za chwilę pół okolicy ginie w białym, zielonym, czcerwonym albo niebieskim dymie. Do wyboru, do koloru.<br><br>Ostatnim typem, jaki ci pokażę, są granaty robiące "BANG!", czcyli ogłuszające, a dokładniej ogłuszającooślepiające. Wrzucasz taki granat do bunkra, w którym kilku drabów trzyma twoją ukochaną, on wydaje z siebie potworny huk, coś na kształt pierdnięcia smoka, a na dodatek razi oczy cholernie jasnym błyskiem. Krzywdy tym nikomu nie zrobisz, ale potrakotwane takim wesołym przedmiotem towarzystwo przez dobre kilka chwil nie będzie wiedziało, gdzie jest, co ma robić i dlaczego ktoś do nich strzela. No, fakt, przez jakieś dwa tygodnie twoje kochanie będzie głuche jak pień, ale przecież będzie żyła, a o to w tym chodziło, co nie?<br><br>I jeszcze jedno – granaty używane są zwykle do zwalczania celów żywych, ale gdy zwiążesz ich kilka naraz, to odpowiednio rzucone mogą nawet zerwać gąsienice jakiegoś pojazdu Molocha.
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Strzała
+1
+80
+Zwykła strzała, pasuje do każdego normalnego łuku.
+łuk, łucznik, strzelanie, strzelectwo, polowanie, myśliwy, robin hood, cięciwa, dystans, daleko, odległość
+bron
+
+Bełt
+2
+40
+Zwykły bełt, pasuje do każdej normalnej kuszy.
+kusza, kusznik, strzelanie, strzelectwo, polowanie, cięciwa, orki z majorki, dystans, daleko, odległość
+bron
+
+Paliwo dobrej jakości (litr)
+15
+10
+Prosto z rafinerii.
+benzyna, olej, ropa, diesel, gaz, gas, samochód, ciężarówka, jazda, taknowanie
+paliwo
+
+Paliwo przeciętnej jakości (litr)
+5
+30
+Prosto z pola rzepaku.
+benzyna, olej, ropa, diesel, gaz, gas, samochód, ciężarówka, jazda, taknowanie
+paliwo
+
+Paliwo słabej jakości (litr)
+3
+50
+Naszczałem do baku i dolałem wódki. Jazda!
+benzyna, olej, ropa, diesel, gaz, gas, samochód, ciężarówka, jazda, taknowanie
+paliwo
+
+Olej napędowy
+3
+50
+Pachnie jak ropa, smakuje jak ropa... Czyli pewnie mazut i rtęć.
+benzyna, olej, ropa, diesel, gaz, gas, samochód, ciężarówka, jazda, taknowanie
+paliwo
+
+Decalcit – Zwapnienie płuc
+2
+80
+24 sztuk w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Calcidis – Zwapnienie płuc
+2
+60
+50 sztuk w słoiczku.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Valapren – Gorączka sobotniej nocy
+5
+20
+20 sztuk w słoiczku.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Ebokiller – Przewlekła gorączka krwotoczcna
+4
+40
+Pojedyncze sztuki.
+leki, ebola, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Tubokuraryna – Mount Rushmore
+1
+70
+Zastrzyk na sztuki.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Benzodiazepiny – Mount Rushmore
+2
+50
+Pojedyncze sztuki.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Progabid – Mount Rushmore
+3
+40
+Pojedyncze sztuki.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Pinio – Syndrom obcego
+1
+60
+Syrop, 50 łyżek.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Uregyt – Chore nery
+2
+80
+Proszek na wagę (1g – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, nerki
+prochy
+
+Kwas foliowy – Chore nery
+1
+80
+Proszek na wagę (1g – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, nerki
+prochy
+
+Preparaty żelaza – Chore nery
+1
+80
+Płynn na wagę (1 gram – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, nerki
+prochy
+
+Leki przeciwhistaminowe – Alergia
+3
+30
+40 sztuk w opakowaniu. Proszek na wagę (1g – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, płuca, alergie, kichanie, katar, kaszel, antyhistaminowe
+prochy
+
+Alef – Szaleństwo bostońskie
+2
+50
+Proszek (1 gram – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Bet – Szaleństwo bostońskie
+2
+40
+Proszek (1 gram – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Gimel – Szaleństwo bostońskie
+2
+40
+Proszek (1 gram – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Reminex – Syndrom Thurmana
+5
+30
+Zastrzyk (10mg – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Lek na drgawki – Drgawki
+1
+40
+Pigułki domowej roboty.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Krioprecypitat – Hemofilia
+10
+20
+5 tabletek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Osocze świeże/mrożone – Hemofilia
+5
+10
+1 pojemnik
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Desmopresyna – Hemofilia
+7
+30
+10 tabletek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Mallonix – Drętwota Hollywood
+2
+50
+10 kropli w butelce.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Wapniak – Osteoporoza
+1
+25
+Proszek (10 gram – jedna dawka).
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Actinix – Zawroty głowy
+2
+50
+Pastylki, 20 w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Rephidal – Zawroty głowy
+3
+25
+8 pastylek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Aspiryna K – Niewydolność krązenia
+1
+80
+30 tabletek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Preparat krwiotwórczy T – Anemia
+3
+60
+40 tabletek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Preparat krwiotwórczy K – Anemia
+4
+60
+80 kropel w butelce.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Memoral – Morbus dexteri
+6
+30
+50 tabletek w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Dracophen – Syndrom Draculi
+3
+60
+20 porcji w butelce.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+AVTDS – VTDS
+2
+40
+30 cukierków do ssania w opakowaniu.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, zespół, wirusowej, języka, wirusowa
+prochy
+
+Witaminy – Ogólnie
+1
+80
+Tabletki na sztuki.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, ogólne
+prochy
+
+Środki przeciwbólowe – Ogólnie
+1
+70
+Tabletki na sztuki
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby, ogólne
+prochy
+
+Psychotropy – Paranoja
+3
+25
+Pastylki lub czopki na sztuki.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Keep Smiling – Zmora
+1
+70
+30 tabletek w słoiku, 6 sztuk za 1 gambel.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+
+Klonazepam – Czarne drgawy
+1
+10
+–
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Słabe środki uspokajające
+5
+50
+Na nadpobudliwość i Gorączkę areny. W zastrzykach lub w tabletkach.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Silne środki uspokajające
+15
+10
+Na nadpobudliwość i Gorączkę areny. W zastrzykach lub w tabletkach.
+leki, prochy, tabletka, tabletki, proszek, lekarstwo, choroba, choroby
+prochy
+
+Bumerang
+10
+20
+Dobry kosztuje 25.<br>Obrażenia: <b>lekkie.</b><br><br>A to jest cwany wynalazek. Kawałek metalu wygięty w kształt litery L. Nic specjalnego powiesz, prawda? To patrz! Rzuciłem go i teraz do mnie wrócił! Niesamowite, nie? Prawdę mówiąc, to te wracające bumerangi służą tylko do polowań, są małe i gdy nie trafisz w zwierzaka, zawsze doleci z powrote,. Nie są specjalnie groźne, trzeba mieć wyjątkowe szczęście, aby zrobić tym komuś krzywdę. Prawdziwie groźne są duże i ciężkie bumerangi bojowe. One nie wracają po wypuszczeniu do rąk. A wiesz, dlaczego? Bo najczęściej posługują się nimi goście, którzy trafiają w cel. I powiem ci, że nie chciałbyś chłopie, aby taki bumerang wbił ci się w czaszkę.
+bumerang, aborygeni, australia, wraca, strzał, dystans, daleko, odległość
+bron
+
+Cep
+10
+30
+Dobry kosztuje 15.
+ręka, drewniany, drewno, pięść, łapa, reka, piesc, laka, metalowy, bliski, wręcz, biała
+bron
+
+EMP
+0
+0
+Nie do kupienia, sorki. Musisz wymyślić coś innego.
+wybuch, elektromagnetyczny, masowe, masowego rażenia, prąd, elektryczne, elektryczność, atmosfera
+bron
+
+Granat dymny
+50
+20
+Obrażenia: <b>Pd. główny, str. 187.</b><br><br>To jest granat. Gdy wyciągniesz z niego zawleczckę i rzucisz, to do trzech liczyć będziesz, nie do dwóch, czy nawet czterech, ale trzy będzie twoją liczbą. Gdy już doliczysz, to lepiej, żebyś nie wyglądał zza węgła w co trafiłeś, bo wtedy właśnie granat eksploduje i powietrze zaroi się od małych, kąśliwych fragmentów skorupy, naciętego drutu czy innego cholerstwa, którym jest on wypełniony. Jeśli coś takiego zrobisz, chłopcze, to już po tobie.<br><br>Granaty można podzielić na kilka typów. Zaczepne, takie jak tu widzisz, to walce z cienkiej blachy z nawiniętym w środku ponacinanym drutem. Rzucasz to przed siebie  wybucha, ale odłamków sieje niewiele, ot tyle, aby przeciwnik leżał i kwiczał, a tobie szarżującemu na niego z odległości 30 metrów nie stała się krzywda. <br><br>Drugim typem jest granat obronny, rzucasz go w chwili, gdy do twojej kryjówki zamierza przytruchtać gość ściskający w rękach piłę łańcuchową. Sieje to odłamkami dookoła, aż miło. Na sześćdziesiąt metrów co najmniej, więc lepiej w takiej chwili głowę trzymać nisko. Najczęściej granaty te wyglądają jak jajka, z gęsto ponacinaną, żeliwną skorupą.<br><br>Innym typem granatów są zapalające  rzucasz taki przedmiocik, a on po chwili zamienia kawałek terenu  tak w promieniu pięciu, dziesięciu metrów  w przedsionek piekła. Gorąca rzecz, taki fosfor, mówię ci.<br><br>Możesz gdzieniegdzie natrafić na jeszcze inne granaty  gazowe. Najczęściej będzie to gaz łzawiący, na walcu znajdziesz wydrapane litery CS. Czasami się przydaje, gdy nie masz ochoty zabijać, a wziąć drani żywcem.<br><br>Bywają też granaty dymne, ot wyciągasz zawleczkę, rzucasz i za chwilę pół okolicy ginie w białym, zielonym, czcerwonym albo niebieskim dymie. Do wyboru, do koloru.<br><br>Ostatnim typem, jaki ci pokażę, są granaty robiące "BANG!", czcyli ogłuszające, a dokładniej ogłuszającooślepiające. Wrzucasz taki granat do bunkra, w którym kilku drabów trzyma twoją ukochaną, on wydaje z siebie potworny huk, coś na kształt pierdnięcia smoka, a na dodatek razi oczy cholernie jasnym błyskiem. Krzywdy tym nikomu nie zrobisz, ale potrakotwane takim wesołym przedmiotem towarzystwo przez dobre kilka chwil nie będzie wiedziało, gdzie jest, co ma robić i dlaczego ktoś do nich strzela. No, fakt, przez jakieś dwa tygodnie twoje kochanie będzie głuche jak pień, ale przecież będzie żyła, a o to w tym chodziło, co nie?<br><br>I jeszcze jedno – granaty używane są zwykle do zwalczania celów żywych, ale gdy zwiążesz ich kilka naraz, to odpowiednio rzucone mogą nawet zerwać gąsienice jakiegoś pojazdu Molocha.
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Granat rozświetlający
+60
+30
+Obrażenia: <b>Pd. główny, str. 187.</b><br><br>To jest granat. Gdy wyciągniesz z niego zawleczckę i rzucisz, to do trzech liczyć będziesz, nie do dwóch, czy nawet czterech, ale trzy będzie twoją liczbą. Gdy już doliczysz, to lepiej, żebyś nie wyglądał zza węgła w co trafiłeś, bo wtedy właśnie granat eksploduje i powietrze zaroi się od małych, kąśliwych fragmentów skorupy, naciętego drutu czy innego cholerstwa, którym jest on wypełniony. Jeśli coś takiego zrobisz, chłopcze, to już po tobie.<br><br>Granaty można podzielić na kilka typów. Zaczepne, takie jak tu widzisz, to walce z cienkiej blachy z nawiniętym w środku ponacinanym drutem. Rzucasz to przed siebie  wybucha, ale odłamków sieje niewiele, ot tyle, aby przeciwnik leżał i kwiczał, a tobie szarżującemu na niego z odległości 30 metrów nie stała się krzywda. <br><br>Drugim typem jest granat obronny, rzucasz go w chwili, gdy do twojej kryjówki zamierza przytruchtać gość ściskający w rękach piłę łańcuchową. Sieje to odłamkami dookoła, aż miło. Na sześćdziesiąt metrów co najmniej, więc lepiej w takiej chwili głowę trzymać nisko. Najczęściej granaty te wyglądają jak jajka, z gęsto ponacinaną, żeliwną skorupą.<br><br>Innym typem granatów są zapalające  rzucasz taki przedmiocik, a on po chwili zamienia kawałek terenu  tak w promieniu pięciu, dziesięciu metrów  w przedsionek piekła. Gorąca rzecz, taki fosfor, mówię ci.<br><br>Możesz gdzieniegdzie natrafić na jeszcze inne granaty  gazowe. Najczęściej będzie to gaz łzawiący, na walcu znajdziesz wydrapane litery CS. Czasami się przydaje, gdy nie masz ochoty zabijać, a wziąć drani żywcem.<br><br>Bywają też granaty dymne, ot wyciągasz zawleczkę, rzucasz i za chwilę pół okolicy ginie w białym, zielonym, czcerwonym albo niebieskim dymie. Do wyboru, do koloru.<br><br>Ostatnim typem, jaki ci pokażę, są granaty robiące "BANG!", czcyli ogłuszające, a dokładniej ogłuszającooślepiające. Wrzucasz taki granat do bunkra, w którym kilku drabów trzyma twoją ukochaną, on wydaje z siebie potworny huk, coś na kształt pierdnięcia smoka, a na dodatek razi oczy cholernie jasnym błyskiem. Krzywdy tym nikomu nie zrobisz, ale potrakotwane takim wesołym przedmiotem towarzystwo przez dobre kilka chwil nie będzie wiedziało, gdzie jest, co ma robić i dlaczego ktoś do nich strzela. No, fakt, przez jakieś dwa tygodnie twoje kochanie będzie głuche jak pień, ale przecież będzie żyła, a o to w tym chodziło, co nie?<br><br>I jeszcze jedno – granaty używane są zwykle do zwalczania celów żywych, ale gdy zwiążesz ich kilka naraz, to odpowiednio rzucone mogą nawet zerwać gąsienice jakiegoś pojazdu Molocha.
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Granat gazowy
+80
+20
+Obrażenia: <b>Pd. główny, str. 187.</b><br><br>To jest granat. Gdy wyciągniesz z niego zawleczckę i rzucisz, to do trzech liczyć będziesz, nie do dwóch, czy nawet czterech, ale trzy będzie twoją liczbą. Gdy już doliczysz, to lepiej, żebyś nie wyglądał zza węgła w co trafiłeś, bo wtedy właśnie granat eksploduje i powietrze zaroi się od małych, kąśliwych fragmentów skorupy, naciętego drutu czy innego cholerstwa, którym jest on wypełniony. Jeśli coś takiego zrobisz, chłopcze, to już po tobie.<br><br>Granaty można podzielić na kilka typów. Zaczepne, takie jak tu widzisz, to walce z cienkiej blachy z nawiniętym w środku ponacinanym drutem. Rzucasz to przed siebie  wybucha, ale odłamków sieje niewiele, ot tyle, aby przeciwnik leżał i kwiczał, a tobie szarżującemu na niego z odległości 30 metrów nie stała się krzywda. <br><br>Drugim typem jest granat obronny, rzucasz go w chwili, gdy do twojej kryjówki zamierza przytruchtać gość ściskający w rękach piłę łańcuchową. Sieje to odłamkami dookoła, aż miło. Na sześćdziesiąt metrów co najmniej, więc lepiej w takiej chwili głowę trzymać nisko. Najczęściej granaty te wyglądają jak jajka, z gęsto ponacinaną, żeliwną skorupą.<br><br>Innym typem granatów są zapalające  rzucasz taki przedmiocik, a on po chwili zamienia kawałek terenu  tak w promieniu pięciu, dziesięciu metrów  w przedsionek piekła. Gorąca rzecz, taki fosfor, mówię ci.<br><br>Możesz gdzieniegdzie natrafić na jeszcze inne granaty  gazowe. Najczęściej będzie to gaz łzawiący, na walcu znajdziesz wydrapane litery CS. Czasami się przydaje, gdy nie masz ochoty zabijać, a wziąć drani żywcem.<br><br>Bywają też granaty dymne, ot wyciągasz zawleczkę, rzucasz i za chwilę pół okolicy ginie w białym, zielonym, czcerwonym albo niebieskim dymie. Do wyboru, do koloru.<br><br>Ostatnim typem, jaki ci pokażę, są granaty robiące "BANG!", czcyli ogłuszające, a dokładniej ogłuszającooślepiające. Wrzucasz taki granat do bunkra, w którym kilku drabów trzyma twoją ukochaną, on wydaje z siebie potworny huk, coś na kształt pierdnięcia smoka, a na dodatek razi oczy cholernie jasnym błyskiem. Krzywdy tym nikomu nie zrobisz, ale potrakotwane takim wesołym przedmiotem towarzystwo przez dobre kilka chwil nie będzie wiedziało, gdzie jest, co ma robić i dlaczego ktoś do nich strzela. No, fakt, przez jakieś dwa tygodnie twoje kochanie będzie głuche jak pień, ale przecież będzie żyła, a o to w tym chodziło, co nie?<br><br>I jeszcze jedno – granaty używane są zwykle do zwalczania celów żywych, ale gdy zwiążesz ich kilka naraz, to odpowiednio rzucone mogą nawet zerwać gąsienice jakiegoś pojazdu Molocha.
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Granat obronny
+90
+30
+–
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Granat zaczepny
+70
+30
+–
+wybuch, bomba, proch, mina, amunicja, ręczny, odłamkowy, dymny, zaczepny, obronny, gazowy, łzawiący
+bron
+
+Pięści
+0
+0
+Bonus do zręczności: <b>brak.</b><br>Obrażenia:<br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -10: <b>sD / sD / sD</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -12: <b>sD / sD / sL</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -14: <b>sD / sL / sL</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -16: <b>sD / sL / sC</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -18: <b>sL / sL / sC</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. 19+: <b>sL / sC / sC</b><br><br>Że to niby żadna broń? Oj, bracie, to cholernie skuteczna broń, w którą zaopatrzyła cię natura.
+ręka, pięść, łapa, reka, piesc, lapa
+bron
+
+Halabarda
+10
+60
+Dobra kosztuje 20
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, kij, grot
+bron
+
+Halabarda Spike'a
+30
+40
+–
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, kij, grot, spika, spajka, spajki
+bron
+
+Kastet
+2
+80
+Dobry kosztuje 5.<br>Bonus do zręczności: <b>brak.</b><br>Do walki kastetem używa się umiejętności <b>bijatyka</b><br>Obrażenia:<br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -10: <b>D / L / L</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -14: <b>L / L / C</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -18:<b> L / C / C</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. 19+: <b>L / C / K</b><br><br>Kawał metalu z otworami na palce, rękawice, które na kłykciach mają wzmocnienia, pokrętło starego zaworu, wygodne do trzymania. Tak, tą bronią naprawdę można wybić komuś zęby, A poza tym jest mała, zwykle nie rzuca się za bardzo w oczy i można ją wnosić tam, gdzie zabierają ci nawet ukryty nóż.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała
+bron
+
+Kulka
+5
+30
+Dobra kosztuje 10
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała
+bron
+
+Kusari-Gama
+25
+10
+–
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała
+bron
+
+Kusza
+30
+30
+Dobra kosztuje 40.
+strzał, dystans, daleko, odległość, strzelectwo, bełt, kusznik
+bron
+
+Łańcuch
+3
+50
+Dobry kosztuje 10.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała
+bron
+
+Łuk
+20
+40
+Dobry kosztuje 30.
+strzał, dystans, daleko, odległość, strzelectwo, strzała, łucznik, myśliwy, polowanie
+bron
+
+Maczuga
+2
+90
+Dobra kosztuje 5.
+kij, laga, konar, herkulesa, wręcz, blisko, biała, drewno, drewniana, drewniany
+bron
+
+Miecz
+20
+20
+Zwykły miecz.
+jednoręczny, dwuręczny, ostrze, jelec, głownia, katana, rycerz
+bron
+
+Młot
+10
+40
+Dobry kosztuje 15.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, mlot, mlotek
+bron
+
+Morgenstern
+10
+30
+Dobry kosztuje 15.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, mlot, mlotek, maczuga, kij, kolce
+bron
+
+Nadziak
+10
+40
+Dobry kosztuje 20.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, ostrze, ostry, naostrzony, tępy
+bron
+
+Nóż
+6
+100
+Dobry kosztuje 10.<br>Bonus do Zręczności:<br>&nbsp;&nbsp;&nbsp;&nbsp;w ataku <b>+1</b><br>&nbsp;&nbsp;&nbsp;&nbsp;w obronie <b>+1</b><br>Obrażenia:<br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -10: <b>D / L / L</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. -14: <b>L / L / C</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Bud. 15+: <b>L / C / G</b><br><br>Zwyczajny nóż, kuchenny tasak, scyzoryk albo bagnet. Nic specjalnego, ale zawsze warto mieć go pod ręką. Albo nawet dwa. Otworzysz tym puszkę, poówiartujesz upolowanego karibu, a przede wszystkim wbijesz go w bebech każdemu skurwielowi, który będzie próbował coś ci podwędzić. Takie już jest to życie w dzisiejszych czasach.
+ręka, noz, noż, nóz, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, ostrze, ostry, naostrzony, tępy
+bron
+
+Nunchaku
+10
+20
+Dobre kosztuje 25.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, ostrze, ostry, naostrzony, tępy, drewniane
+bron
+
+Pałka
+1
+100
+Dobra kosztuje 5.
+kij, laga, konar, herkulesa, wręcz, blisko, biała, drewno, drewniana, drewniany
+bron
+
+Piła spalinowa
+50
+20
+Kroi ludzi, pożera paliwo.
+piła, elektryczna, łańcuchowa, lancuchowa, pila, krojenie, ciecie, cięcie
+bron
+
+Pogromca
+0
+0
+Nie do kupienia, ulubiona broń łowców mutantów.
+palna, daleki, daleko, daleka, palny, proch, strzelanie, strzelectwo, strzelba
+bron
+
+Proca
+0
+100
+Obrażenia: <b>lekkie.</b><br><br>Kawałek skóry, gumy lub izolacji grubego przewodu i rurka albo pas skórzany i kieszeń na pocisk. Dawno, dawno temu, właśnie tą bronią pewien kurdupel o imieniu Dawid pokonał wielgachnego stwora Molocha, trafiając giganta w czoło. Zrobiło się jakieś spięcie i olbrzym w jednej chwili runął na ziemię. Tak przynajmniej mówi Biblia, którą niedawno miałem w rękach. A wracając do procy, zawsze dobrze jest mieć przy sobie coś takiego. Strzelać z niej można dosłownie wszystkim  starymi nakrętkami, kulkami z łożysk, a nawet kawałkami gruzu. Czego, jak czego, ale amunicji do tej broni nigdy ci nie zabraknie.
+strzał, dystans, daleko, odległość, strzelectwo, myśliwy, polowanie, pasterz, dawid
+bron
+
+Ramon
+40
+10
+–
+ramon, nie, wiem, co, to, nie, moge, znalezc
+bron
+
+Siatka
+10
+20
+–
+siatka, nici, sznury, nić, sieci, sieć, 
+bron
+
+Siatka stalowa
+50
+10
+–
+siatka, nici, sznury, nić, sieci, sieć, stalowa, metalowa, stalowy, metalowy
+bron
+
+Swisher
+30
+20
+–
+–
+bron
+
+Szczypce
+10
+30
+–
+broń, ręczna, reczna, ręka, reka, kleszcze, bliska, blisko, biała, biala
+bron
+
+Tarcza ciężka
+6
+40
+Dobra kosztuje 10.
+tarcza, obrona, blisko, lewa, ręka, dłoń, puklerz, pancerz, duża, duza
+bron
+
+Tarcza lekka
+3
+50
+Dobra kosztuje 5.
+tarcza, obrona, blisko, lewa, ręka, dłoń, puklerz, pancerz, mała, mala
+bron
+
+Tasak
+5
+30
+Dobry kosztuje 20
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, rzeznik, rzeźnik, rzeznia, rzeźnia, maczeta
+bron
+
+Topór
+10
+80
+Dobry kosztuje 20.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, drwal, bojowy, topor
+bron
+
+Trójząb
+10
+10
+Dobry kosztuje 15.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, kij, grot, widły, widly
+bron
+
+Widły
+10
+80
+–
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, kij, grot, trójząb, trojzab, pole, gnój, gnoj, gówno, gowno, wiesniak, wieśniak, wiesiek, dupa
+bron
+
+Włócznia
+8
+70
+Dobra kosztuje 10.
+ręka, pięść, łapa, reka, piesc, lapa, metalowy, bliski, wręcz, biała, kij, grot
+bron
+
+AK (Kałasznikow)
+70
+10
+–
+dystans, strzelectwo, strzelanie, bron, broń, karabin, palna kalach, kałach, kalasznikow, akacz
+bron
+
+AMT Automag
+30
+40
+–
+dystans, strzelectwo, strzelanie, bron, broń, pistolet, palna, samopowtarzalny
+bron
+
+Barrett M82 A1
+230
+5
+–
+dystans, strzelectwo, strzelanie, bron, broń, karabin, palna, snajper, snajperka, sniper, wyborowy
+bron
+
+Bazooka
+65
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, granatnik, wyrzutnia, bazuka, bazoka, pociski, rakiety, rakieta, rakietnica
+bron
+
+Beretta
+35
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet
+bron
+
+Browning HP
+45
+25
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet
+bron
+
+Colt "Peacemaker"
+40
+40
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, rewolwer
+bron
+
+Colt M1911 A1
+40
+25
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, rewolwer
+bron
+
+Desert Eagle
+40
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, deagle
+bron
+
+Dwururka
+50
+60
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, śrut, srut, srutowka, śrutówka, strzelba
+bron
+
+F 2000
+200
+10
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+Glock 17
+55
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet
+bron
+
+H&K MP5
+75
+20
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, maszynowy, seria
+bron
+
+Ingram MAC-10
+70
+10
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, maszynowy, seria
+bron
+
+Karabin-samopał
+30
+70
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, maszynowy, seria
+bron
+
+M14
+50
+20
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M16 A2
+70
+40
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M1 Garand
+65
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M203
+75
+25
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, granatnik, wyrzutnia, bazuka, bazoka, pociski, rakiety, rakieta, rakietnica
+bron
+
+M29/M8
+150
+5
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M4 A1
+75
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M60
+80
+20
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin
+bron
+
+M72 LAW
+75
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, granatnik, wyrzutnia, bazuka, bazoka, pociski, rakiety, rakieta, rakietnica
+bron
+
+M79
+70
+30
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, granatnik, wyrzutnia, bazuka, bazoka, pociski, rakiety, rakieta, rakietnica
+bron
+
+Magnum 44
+60
+35
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, pistolet, rewolwer
+bron
+
+Miotacz ognia
+150
+20%
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, strzelba, ogien, ogień, plujka, ropa, paliwo, palny, pali, palnik, łatwo
+bron
+
+Minimi
+100
+10
+–
+dystans, strzelectwo, strzelanie, bron, broń, palna, karabin, CKM
+bron
+
+MK 19
+300
+5
+–
+–
+bron
+
+Moździerz
+160
+15
+–
+–
+bron
+
+Muszkiet
+50
+5
+–
+–
+bron
+
+Obrzyn
+50
+70
+–
+–
+bron
+
+Pancor Jackhammer
+200
+10
+–
+–
+bron
+
+Pistolet odprzodowy
+20
+20
+–
+–
+bron
+
+Pistolet-samopał
+20
+60
+–
+–
+bron
+
+Pompka
+60
+35
+–
+–
+bron
+
+Ruger Mini
+60
+25
+–
+–
+bron
+
+Ruger P85
+45
+20
+–
+–
+bron
+
+Sig - Sauer P226
+40
+20
+–
+–
+bron
+
+Smith & Wesson 659
+30
+40
+–
+–
+bron
+
+Springfield
+45
+20
+–
+–
+bron
+
+Sten
+50
+25
+–
+–
+bron
+
+Sterling
+65
+20
+–
+–
+bron
+
+Trzydziestka ósemka (S&W)
+35
+30
+–
+38
+bron
+
+TT Tokariew
+40
+20
+–
+–
+bron
+
+UZI
+60
+50
+–
+–
+bron
+
+Winchester
+40
+60
+–
+–
+bron
+
+Celownik laserowy
+60
+10
+–
+–
+bron
+
+Celownik optyczcny
+40
+20
+–
+–
+bron
+
+Dwójnóg
+10
+80
+–
+–
+bron
+
+Granatnik podwieszany
+70
+20
+–
+–
+bron
+
+Podstawa trójnożna
+20
+70
+–
+–
+bron
+
+Śrutówka podlufowa
+45
+15
+–
+–
+bron
+
+Analizator chemiczny
+100
+5
+–
+–
+elektronika
+
+Baterie (1 sztuka)
+20
+10
+–
+–
+elektronika
+
+Części zapasowe (0,25 kg)
+5
+100
+–
+–
+elektronika
+
+Detektor ruchu
+80
+10
+–
+–
+elektronika
+
+Krótkofalówka
+25
+25
+–
+–
+elektronika
+
+Mały elektryk
+20
+50
+–
+–
+elektronika
+
+Miernik promieniowania
+30
+30
+–
+–
+elektronika
+
+Miernik skażenia chemicznego
+50
+20
+–
+–
+elektronika
+
+Noktowizor
+70
+15
+–
+–
+elektronika
+
+Odtwarzacz CD
+10
+20
+-
+–
+elektronika
+
+Radio
+15
+70
+–
+–
+elektronika
+
+Wykrywacz metalu
+30
+20
+–
+–
+elektronika
+
+Wytrzychy (elektroniczne)
+50
+5
+–
+–
+elektronika
+
+Komputer osobisty
+30
+80
+–
+–
+elektronika
+
+Komputer najnowszej generacji
+60
+40
+–
+–
+elektronika
+
+Notebook
+50
+60
+–
+komputer, laptop
+elektronika
+
+Komputer wojskowy
+140
+5
+–
+–
+elektronika
+
+Komputer ze sztuczną inteligencją
+80
+10
+–
+–
+elektronika
+
+Autobus miejski
+180
+20
+–
+pojazdy
+mechanika
+
+Autobus szkolny
+170
+15
+–
+pojazdy
+mechanika
+
+Autobus turystyczny
+220
+10
+–
+pojazdy
+mechanika
+
+Ciężarówka
+200
+15
+–
+pojazdy
+mechanika
+
+Coupe
+40
+40
+–
+pojazdy
+mechanika
+
+Furgonetka
+150
+20
+–
+pojazdy
+mechanika
+
+Hammer
+180
+10
+–
+pojazdy
+mechanika
+
+Hatchback
+50
+40
+–
+pojazdy
+mechanika
+
+Jeep
+100
+25
+–
+pojazdy
+mechanika
+
+Limuzyna
+100
+15
+–
+pojazdy
+mechanika
+
+Łazik
+80
+20
+–
+pojazdy
+mechanika
+
+Kombi
+40
+60
+–
+pojazdy
+mechanika
+
+Pickup
+100
+25
+–
+pojazdy
+mechanika
+
+Minivan
+110
+20
+–
+pojazdy
+mechanika
+
+Motocykl
+50
+0
+10%-40%, zależy.
+pojazdy
+mechanika
+
+Sedan
+60
+30
+–
+pojazdy
+mechanika
+
+Wóz strażacki
+300
+15
+–
+pojazdy
+mechanika
+
+ABS
+30
+60
+–
+akcesoria
+mechanika
+
+Automatic TurboPak
+20
+10
+–
+akcesoria
+mechanika
+
+Balonówki
+10
+10
+–
+akcesoria
+mechanika
+
+Chłodzenie cieczą
+40
+20
+–
+akcesoria
+mechanika
+
+Chłodzenie powietrzem
+25
+25
+–
+akcesoria
+mechanika
+
+Dodatkowe zbiorniki paliwa
+5
+80
+–
+akcesoria
+mechanika
+
+Dwustronny hamulec
+15
+70
+–
+akcesoria
+mechanika
+
+ESP
+40
+10
+–
+akcesoria
+mechanika
+
+Fotel katapultowy
+160
+5
+–
+akcesoria
+mechanika
+
+Garłacz
+30
+60
+–
+akcesoria
+mechanika
+
+Gaźnik recyrkulacji paliwa
+40
+5
+–
+akcesoria
+mechanika
+
+Hamulce bębnowe
+5
+80
+–
+akcesoria
+mechanika
+
+Hamulce lotnicze
+65
+10
+–
+akcesoria
+mechanika
+
+Hamulce tarczowe
+10
+80
+–
+akcesoria
+mechanika
+
+Intercooler
+10
+10
+–
+akcesoria
+mechanika
+
+Klatka rurowa
+0
+30
+20-80 gambli, zależy.
+akcesoria
+mechanika
+
+Kolce
+10
+70
+–
+akcesoria
+mechanika
+
+Krajalnica
+30
+30
+–
+akcesoria
+mechanika
+
+Krucze stopy
+15
+100
+–
+akcesoria
+mechanika
+
+Lotniczy zbiornik paliwa
+100
+5
+–
+akcesoria
+mechanika
+
+Magnetyzery
+15
+10
+–
+akcesoria
+mechanika
+
+Mina wytykowa
+30
+15
+–
+akcesoria
+mechanika
+
+Miotacz ognia
+20
+30
+–
+akcesoria
+mechanika
+
+Mniejsze przeróbki
+40
+60
+–
+akcesoria
+mechanika
+
+Montaż karabinu masz. zewn.
+10
+80
+–
+akcesoria
+mechanika
+
+Montaż karabinu masz. wew.
+35
+50
+–
+akcesoria
+mechanika
+
+Napęd na 4 koła
+250
+10
+–
+akcesoria
+mechanika
+
+Nitro
+0
+10
+80/20 gambli, zależy
+akcesoria
+mechanika
+
+Olejarka
+20
+40
+–
+akcesoria
+mechanika
+
+Osłona przeciwwodna silnika
+50
+100
+–
+akcesoria
+mechanika
+
+Pancerna płyta podłogowa
+45
+40
+–
+akcesoria
+mechanika
+
+Płyty pancerne
+10
+75
+–
+akcesoria
+mechanika
+
+Płyty pancerne na okna
+40
+20
+–
+akcesoria
+mechanika
+
+Poważne przeróbki
+0
+30
+40-150 gambli, zależy.
+akcesoria
+mechanika
+
+Prosto w ryj
+10
+60
+–
+akcesoria
+mechanika
+
+Przepustnica spalin
+10
+10
+–
+akcesoria
+mechanika
+
+Przeróbki wydechów
+0
+25
+10-20 gambli, zależy.
+akcesoria
+mechanika
+
+Przyczepy
+20
+80
+–
+akcesoria
+mechanika
+
+Rama aluminiowa
+80
+10
+–
+akcesoria
+mechanika
+
+Reflektory
+0
+0
+15/25/60 gambli, 70/40%, zależy.
+akcesoria
+mechanika
+
+Rozwiercanie cylindrów
+30
+100
+–
+akcesoria
+mechanika
+
+Rozwiercanie zaworów
+25
+100
+–
+akcesoria
+mechanika
+
+Siatka metalowa
+5
+60
+–
+akcesoria
+mechanika
+
+Silnik benzynowy
+20
+60
+–
+akcesoria
+mechanika
+
+Silnik ceramiczny
+15
+65
+–
+akcesoria
+mechanika
+
+Silnik motocyklowy
+5
+20
+–
+akcesoria
+mechanika
+
+Silnik polimer-metal
+5
+45
+–
+akcesoria
+mechanika
+
+
+Silnik wysokoprężny
+5
+70
+–
+akcesoria
+mechanika
+
+Silnik mały (I)
+10
+25
+–
+akcesoria
+mechanika
+
+Silnik średni (II)
+10
+40
+–
+akcesoria
+mechanika
+
+Silnik duży (III)
+40
+35
+–
+akcesoria
+mechanika
+
+Silnik ciężki
+50
+35
+–
+akcesoria
+mechanika
+
+Skrzynia biegów manualna
+15
+30
+–
+akcesoria
+mechanika
+
+Skrzynia automatyczna
+20
+40
+–
+akcesoria
+mechanika
+
+Skrzynia od ciągnika kont.
+30
+20
+–
+akcesoria
+mechanika
+
+Sprzęgło sterowane elektrycznie
+30
+20
+–
+akcesoria
+mechanika
+
+Spychacz
+30
+30
+–
+akcesoria
+mechanika
+
+Spychacz ruchomy
+50
+10
+–
+akcesoria
+mechanika
+
+Strumienica
+30
+25
+–
+akcesoria
+mechanika
+
+Szeroki wydech
+40
+30
+–
+akcesoria
+mechanika
+
+Szyby kuloodporne
+60
+30
+–
+akcesoria
+mechanika
+
+Teksański różaniec
+40
+20
+–
+akcesoria
+mechanika
+
+Turbosprężarki małe
+30
+15
+–
+akcesoria
+mechanika
+
+Turbosprężarki duże
+50
+15
+–
+akcesoria
+mechanika
+
+Uniwersalne spalanie
+40
+30
+–
+akcesoria
+mechanika
+
+Uszczelnienie kabiny
+200
+20
+–
+akcesoria
+mechanika
+
+Wielorybnik
+25
+50
+–
+akcesoria
+mechanika
+
+Wzmocnienie przewodów
+50
+40
+–
+akcesoria
+mechanika
+
+Wzmocnione zawieszenie
+0
+15
+20/10 gambli, zależy.
+akcesoria
+mechanika
+
+Wypełnione opony
+5
+70
+–
+akcesoria
+mechanika
+
+Wyrzutnie rakiet
+20
+40
+–
+akcesoria
+mechanika
+
+Zasłona dymna
+20
+30
+–
+akcesoria
+mechanika
+
+Zderzaki wzmocnione
+25
+60
+–
+akcesoria
+mechanika
+
+Zdjęcie ogranicznika fabrycznego
+15
+15
+–
+akcesoria
+mechanika
+
+Zwiększenie prześwitu
+150
+10
+–
+akcesoria
+mechanika
+
+Części zapasowe (0,5 kg)
+5
+100
+(śrubki, uszczelki itd.)
+akcesoria
+mechanika
+
+Czyste bandaże (rolka)
+5
+40
+–
+–
+–
+
+Dwukółka (wózek)
+10
+70
+–
+–
+–
+
+Folia aluminiowa (1m kw.)
+3
+40
+–
+–
+–
+
+Folia przezroczysta (1m kw.)
+5
+30
+–
+–
+–
+
+Koc
+5
+100
+–
+–
+–
+
+Kompas
+5
+30
+–
+–
+–
+
+Lornetka
+30
+20
+–
+–
+–
+
+Mały chemik
+25
+40
+–
+–
+prochy
+
+Mały mechanik
+25
+70
+–
+–
+mechanika
+
+Maska przeciwgazowa
+20
+30
+–
+–
+–
+
+Naczynia ceramiczne
+0
+0
+5-25 gambli, 20-100%, zależy.
+–
+–
+
+Naczynia metalowe
+0
+0
+3-20 gambli, 30-100%, zależy.
+–
+–
+
+Naczynia plastikowe
+0
+0
+1-10 gambli, 70-100%, zależy.
+–
+–
+
+Namiot
+0
+0
+10-80 gambli, 10-70%, zależy.
+–
+–
+
+Narty
+15
+50
+–
+–
+–
+
+Palnik acetylenowo-tlenowy
+20
+30
+–
+–
+–
+
+Skafander ochronny
+70
+20
+–
+–
+–
+
+Sprzęt do nurkowania
+20
+30
+–
+–
+–
+
+Sprzęt do wspinaczki
+25
+50
+–
+–
+–
+
+Śpiwór
+0
+0
+5-20 gambli, 10-80%, zależy.
+–
+–
+
+Środki dezynfekujące (1 litr)
+10
+60
+–
+–
+–
+
+Środki czyszczące (1 litr)
+10
+60
+–
+–
+–
+
+Torba lekarska
+10
+80
+–
+–
+–
+
+Uprząż dla konia
+25
+70
+–
+–
+–
+
+Uprząż do wozu
+35
+50
+–
+–
+–
+
+Wóz konny
+55
+30
+–
+pojazdy
+–
+
+Koń (chory lub skażony)
+30
+60
+–
+–
+–
+
+Koń (chabeta)
+50
+60
+–
+–
+–
+
+Koń (przeciętny)
+60
+30
+–
+–
+–
+
+Koń (dobrze odżywiony)
+80
+20
+–
+–
+–
+
+Koń (Teksańczyk)
+100
+10
+–
+–
+–
+
+Krowa
+70
+50
+–
+–
+–
+
+Owca
+30
+60
+–
+–
+–
+
+Wół
+50
+30
+–
+–
+–
+
+Świnia
+40
+60
+–
+–
+–
+
+Koza
+30
+70
+–
+–
+–
+
+Kura
+20
+80
+–
+–
+–
+
+Herbata (1 kg)
+25
+50
+–
+–
+zywnosc
+
+Jajko
+2
+70
+–
+–
+zywnosc
+
+Kawa (1 kg)
+30
+30
+–
+–
+zywnosc
+
+Kawa zbożowa (1 kg)
+20
+80
+–
+–
+zywnosc
+
+Konserwa
+5
+20
+–
+–
+zywnosc
+
+Liofilizowana żywność (1 kg)
+45
+10
+–
+–
+zywnosc
+
+Mięso (1 kg)
+10
+80
+–
+–
+zywnosc
+
+Mleko (1 litr)
+10
+50
+–
+–
+zywnosc
+
+Niewolnicy
+0
+0
+30-600 gambli, 0-80%, zależy.
+–
+–
+
+Owoce i warzywa (1 kg)
+15
+30
+–
+–
+zywnosc
+
+Ryby (1 kg)
+15
+0
+0-80%, zależy,
+–
+zywnosc
+
+Ser (1 kg)
+10
+40
+–
+–
+zywnosc
+
+Skóra małego zwierzęcia
+5
+60
+3-6 gambli, zależy.
+–
+–
+
+Skóra dużego zwierzęcia
+15
+20
+5-20 gambli, zależy.
+–
+–
+
+Ziarno (1 kg)
+5
+80
+–
+–
+zywnosc
+
+Usługi prostytutki
+0
+0
+10–200, 20–70%
+kurwa, kutas, cipa, chuj, dziwka, szmata, sex, seks, workerka, sexworkwerka, seksworkerka, pracownica, seksualna, pizda, lafirynda, kurtyzana, ulicznica, ruchadlo, ruchadło, pierdolić, pierdolenie, ruchanie, ruchać, jebać, jebanie, sperma, jajowody, jajowód, kochanie, milosc, miłość
+uslugi
+
+Usługi speca – drobnostka
+0
+0
+1-10, 0-80%
+–
+uslugi
+
+Usługi speca – trochę roboty
+0
+0
+10-50, 0-80%
+–
+uslugi
+
+Usługi speca – kilkudniowa harówa
+0
+0
+50-150, 0-80%
+–
+uslugi
+
+Usługi speca - kilkudniowa harówa
+0
+0
+Ile sobie zażyczy tyle weźmie.
+–
+uslugi
+
+Wynajęcie speca z gildii
+0
+0
+0-40%. Trzeba zapewnić dzienne utrzymanie (30-60 gambli) i doliczyć dzienną zapłatę (od 10 gambli za doglądanie do 50 za robotę).
+–
+uslugi
+
+Wynajęcie ochroniarza
+0
+60
+Trzeba zapewnić dzienne utrzymanie i zapłatę (15 gambli + Sława x 10).
+–
+uslugi
+
+Wynajęcie najemnika
+0
+40
+10-100 + Sława x 10
+–
+uslugi
+
+Wynajęcie przewodnika
+0
+80
+Od 10 do 20 gambli na dzień.
+–
+uslugi
+
+Transport samochodem
+0
+30
+Od 60 do 100 gambli za 100km (koszt benzyny wliczony).
+–
+uslugi
+
+Przesyłka kurierska
+0
+20
+Od 30 do 50 gambli za 100km.
+–
+uslugi
+
+Wizyta lekarza
+0
+30
+Od 10 do 30 (koszt leków nie wliczony).
+–
+uslugi
+
+Narkotyki łatwe do wyprodukowania
+10
+40
+–
+–
+prochy
+
+Narkotyki przedwojenne
+60
+10
+–
+–
+prochy
+
+Narkotyki – Tornado
+0
+0
+30-100 gambli, 5-50%.
+–
+prochy
+
+Narkotyki zaawansowane technologicznie
+50
+20
+–
+–
+prochy
+
+AR-23
+70
+10
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+AR-25-BETA
+100
+5
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+DeadLine
+50
+20
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+Medpaki
+20
+30
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+Painkiller
+10
+60
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+RadOff
+30
+20
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+Remov
+50
+10
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+WD-Tabs
+20
+60
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy
+
+ZNS
+30
+10
+–
+leczenie, leki, lekarstwa, środki, srodki, natychmiastowego
+prochy

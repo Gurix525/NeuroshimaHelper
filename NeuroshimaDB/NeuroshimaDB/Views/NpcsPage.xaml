@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NeuroshimaDB.Views.NpcsPage"
+    Title="{Binding Title}"
+    xmlns:local="clr-namespace:NeuroshimaDB.ViewModels"
+    xmlns:model="clr-namespace:NeuroshimaDB.Models"
+    xmlns:behaviors="clr-namespace:NeuroshimaDB.Behaviors"
+    xmlns:services="clr-namespace:NeuroshimaDB.Services"
+    x:Name="NpcsGeneratorPage">
+    <ContentPage.Resources>
+        <Style
+            TargetType="Label"
+            Class="NameLabel">
+        </Style>
+        <Style
+            TargetType="Button"
+            Class="CreateButton">
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                Text="Widok szczegółowy"
+                FontSize="Medium"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+            <Switch
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                x:Name="Switch1"
+                IsToggled="False"
+                Margin="5,0,0,0" />
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition
+                        Height="65" />
+                    <RowDefinition
+                        Height="65" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Picker
+                    x:Name="PowerPicker"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Title="Wybierz rodzaj"
+                    TitleColor="Silver"
+                    BackgroundColor="AliceBlue"
+                    HeightRequest="65"
+                    TextColor="Black"
+                    SelectedIndexChanged="PowerPicker_SelectedIndexChanged">
+                    <Picker.SelectedIndex>
+                        1
+                    </Picker.SelectedIndex>
+                    <Picker.ItemsSource>
+                        <x:Array
+                            Type="{x:Type x:String}">
+                            <x:String>Słabiak (suma wsp. 40-50)</x:String>
+                            <x:String>Normalfag (suma wsp. 50-60)</x:String>
+                            <x:String>Szef (suma wsp. 60-70)</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Picker
+                    x:Name="ProfessionPicker"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Title="Wybierz profesję"
+                    TitleColor="Silver"
+                    BackgroundColor="AliceBlue"
+                    HeightRequest="65"
+                    TextColor="Black"
+                    SelectedIndexChanged="ProfessionPicker_SelectedIndexChanged">
+                    <Picker.SelectedIndex>
+                        1
+                    </Picker.SelectedIndex>
+                    <Picker.ItemsSource>
+                        <x:Array
+                            Type="{x:Type x:String}">
+                            <x:String>Chemik</x:String>
+                            <x:String>Ganger</x:String>
+                            <x:String>Gladiator</x:String>
+                            <x:String>Handlarz</x:String>
+                            <x:String>Kaznodzieja Nowej Ery</x:String>
+                            <x:String>Kowboj</x:String>
+                            <x:String>Kurier</x:String>
+                            <x:String>Łowca</x:String>
+                            <x:String>Łowca mutantów</x:String>
+                            <x:String>Mafiozo</x:String>
+                            <x:String>Medyk</x:String>
+                            <x:String>Monter</x:String>
+                            <x:String>Najemnik</x:String>
+                            <x:String>Ochroniarz</x:String>
+                            <x:String>Sędzia</x:String>
+                            <x:String>Spec</x:String>
+                            <x:String>Szaman</x:String>
+                            <x:String>Szczur</x:String>
+                            <x:String>Treser Bestii</x:String>
+                            <x:String>Tropiciel</x:String>
+                            <x:String>Wojownik Autostrady</x:String>
+                            <x:String>Wojownik Klanu</x:String>
+                            <x:String>Zabójca</x:String>
+                            <x:String>Zabójca Maszyn</x:String>
+                            <x:String>Złodziej</x:String>
+                            <x:String>Żołnierz</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Button
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    StyleClass="CreateButton"
+                    Text="Stwórz postać"
+                    Command="{Binding CreateNpcCommand}" />
+                <Button
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    StyleClass="CreateButton"
+                    Text="Wyczyść listę"
+                    Command="{Binding ClearNpcsCommand}" />
+            </Grid>
+            <ContentView
+                x:DataType="local:NpcsViewModel">
+                <CollectionView
+                    x:Name="NpcsListView"
+                    ItemsSource="{Binding Npcs}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate
+                            x:DataType="model:Npc">
+                            <StackLayout
+                                Padding="0, 0, 0, 5">
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                        NumberOfTapsRequired="1"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type local:NpcsViewModel}}, Path=NpcTappedCommand}"
+                                        CommandParameter="{Binding .}">
+                                    </TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                                <Grid
+                                    Padding="5, 0, 5, 0"
+                                    BackgroundColor="LightBlue">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition
+                                            Height="65" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition
+                                            Width="4*" />
+                                        <ColumnDefinition
+                                            Width="1*" />
+                                        <ColumnDefinition
+                                            Width="5*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label
+                                        Grid.Row="0"
+                                        Grid.Column="0"
+                                        StyleClass="NameLabel"
+                                        Text="{Binding Name}"
+                                        VerticalOptions="Center"
+                                        FontSize="Large" />
+                                    <Label
+                                        Grid.Row="0"
+                                        Grid.Column="1"
+                                        Text="{Binding StatsSum}"
+                                        VerticalOptions="Center"
+                                        FontSize="Large" />
+                                    <Grid
+                                        Grid.Row="0"
+                                        Grid.Column="2">
+                                        <Grid.Resources>
+                                            <Style
+                                                TargetType="Label">
+                                                <Setter
+                                                    Property="HorizontalOptions"
+                                                    Value="Center" />
+                                                <Setter
+                                                    Property="VerticalOptions"
+                                                    Value="Start" />
+                                            </Style>
+                                            <Style
+                                                TargetType="Label"
+                                                Class="BoldLabel">
+                                                <Setter
+                                                    Property="FontAttributes"
+                                                    Value="Bold" />
+                                                <Setter
+                                                    Property="VerticalOptions"
+                                                    Value="Center" />
+                                            </Style>
+                                        </Grid.Resources>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition />
+                                            <RowDefinition />
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                        </Grid.ColumnDefinitions>
+                                        <Label
+                                            Grid.Row="0"
+                                            Grid.Column="0"
+                                            Text="Zr"
+                                            StyleClass="BoldLabel" />
+                                        <Label
+                                            Grid.Row="0"
+                                            Grid.Column="1"
+                                            Text="Prc"
+                                            StyleClass="BoldLabel" />
+                                        <Label
+                                            Grid.Row="0"
+                                            Grid.Column="2"
+                                            Text="Cha"
+                                            StyleClass="BoldLabel" />
+                                        <Label
+                                            Grid.Row="0"
+                                            Grid.Column="3"
+                                            Text="Spr"
+                                            StyleClass="BoldLabel" />
+                                        <Label
+                                            Grid.Row="0"
+                                            Grid.Column="4"
+                                            Text="Bud"
+                                            StyleClass="BoldLabel" />
+                                        <Label
+                                            Grid.Row="1"
+                                            Grid.Column="0"
+                                            Text="{Binding Zr}"
+                                            FontSize="Medium" />
+                                        <Label
+                                            Grid.Row="1"
+                                            Grid.Column="1"
+                                            Text="{Binding Pr}"
+                                            FontSize="Medium" />
+                                        <Label
+                                            Grid.Row="1"
+                                            Grid.Column="2"
+                                            Text="{Binding Cha}"
+                                            FontSize="Medium" />
+                                        <Label
+                                            Grid.Row="1"
+                                            Grid.Column="3"
+                                            Text="{Binding Spr}"
+                                            FontSize="Medium" />
+                                        <Label
+                                            Grid.Row="1"
+                                            Grid.Column="4"
+                                            Text="{Binding Bd}"
+                                            FontSize="Medium" />
+                                    </Grid>
+                                </Grid>
+                                <Label
+                                    Text="{Binding SkillsString}"
+                                    TextType="Html"
+                                    Padding="0, 0, 0, 5"
+                                    BackgroundColor="AliceBlue" />
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </ContentView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

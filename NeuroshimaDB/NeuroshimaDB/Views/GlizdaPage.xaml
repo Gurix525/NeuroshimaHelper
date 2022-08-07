@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NeuroshimaDB.Views.GlizdaPage"
+    Title="{Binding Title}"
+    xmlns:local="clr-namespace:NeuroshimaDB.ViewModels"
+    xmlns:model="clr-namespace:NeuroshimaDB.Models"
+    xmlns:behaviors="clr-namespace:NeuroshimaDB.Behaviors"
+    xmlns:services="clr-namespace:NeuroshimaDB.Services"
+    x:Name="GlizdaGeneratorPage">
+    <ContentPage.Resources>
+        <Style
+            TargetType="Picker"
+            Class="Picker">
+            <Setter
+                Property="TitleColor"
+                Value="Silver" />
+            <Setter
+                Property="BackgroundColor"
+                Value="AliceBlue" />
+            <Setter
+                Property="HeightRequest"
+                Value="65" />
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+        </Style>
+        <Style
+            TargetType="Entry"
+            Class="Entry">
+            <Setter
+                Property="Keyboard"
+                Value="Numeric" />
+            <Setter
+                Property="PlaceholderColor"
+                Value="Silver" />
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+            <Setter
+                Property="BackgroundColor"
+                Value="AliceBlue" />
+        </Style>
+        <Style
+            TargetType="Label"
+            Class="HeaderLabel">
+            <Setter
+                Property="TextColor"
+                Value="Black" />
+            <Setter
+                Property="FontSize"
+                Value="Medium" />
+            <Setter
+                Property="FontAttributes"
+                Value="Bold" />
+            <Setter
+                Property="VerticalOptions"
+                Value="Center" />
+        </Style>
+        <services:SizeToColorValueConverter
+            x:Key="SizeToColorValueConverter" />
+    </ContentPage.Resources>
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Picker
+                x:Name="GamblePicker"
+                Title="Gamblonośność"
+                StyleClass="Picker"
+                SelectedIndexChanged="GamblePicker_SelectedIndexChanged"
+                Grid.Column="0">
+                <Picker.SelectedIndex>
+                    0
+                </Picker.SelectedIndex>
+                <Picker.ItemsSource>
+                    <x:Array
+                        Type="{x:Type x:String}">
+                        <x:String>Odwiedzony</x:String>
+                        <x:String>Splądrowany</x:String>
+                        <x:String>Zamieszkany</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <Picker
+                x:Name="DifficultyPicker"
+                Title="Trudność wejścia"
+                StyleClass="Picker"
+                SelectedIndexChanged="DifficultyPicker_SelectedIndexChanged"
+                Grid.Column="1">
+                <Picker.SelectedIndex>
+                    0
+                </Picker.SelectedIndex>
+                <Picker.ItemsSource>
+                    <x:Array
+                        Type="{x:Type x:String}">
+                        <x:String>Strefa zwyczajnych ruin (25% na trudne wejścia)</x:String>
+                        <x:String>Strefa gruzu (50% na trudne wejścia)</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Entry
+                x:Name="BigLocationsEntry"
+                StyleClass="Entry"
+                Grid.Column="0"
+                Placeholder="Duże"
+                TextChanged="BigLocationsEntry_TextChanged">
+                <Entry.Behaviors>
+                    <behaviors:NumericValidationBehavior />
+                </Entry.Behaviors>
+            </Entry>
+            <Entry
+                x:Name="SmallLocationsEntry"
+                StyleClass="Entry"
+                Grid.Column="1"
+                Placeholder="Małe"
+                TextChanged="SmallLocationsEntry_TextChanged">
+                <Entry.Behaviors>
+                    <behaviors:NumericValidationBehavior />
+                </Entry.Behaviors>
+            </Entry>
+            <Entry
+                x:Name="HomeLocationsEntry"
+                Grid.Column="2"
+                Placeholder="Mieszkalne"
+                StyleClass="Entry"
+                TextChanged="HomeLocationsEntry_TextChanged">
+                <Entry.Behaviors>
+                    <behaviors:NumericValidationBehavior />
+                </Entry.Behaviors>
+            </Entry>
+        </Grid>
+        <Button
+            x:Name="CreateAreaButton"
+            HeightRequest="65"
+            Text="Stwórz nowy obszar"
+            FontSize="Medium"
+            Command="{Binding CreateArea}">
+        </Button>
+        <Grid
+            Padding="0, 5, 0, 5"
+            BackgroundColor="Silver">
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="Lokacja"
+                    StyleClass="HeaderLabel">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="PT"
+                    StyleClass="HeaderLabel"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="MOD"
+                    StyleClass="HeaderLabel"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+        <ContentView
+            x:DataType="local:GlizdaViewModel">
+            <CollectionView
+                x:Name="LocationsListView"
+                ItemsSource="{Binding Locations}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout
+                            Padding="0, 0, 0, 0">
+                            <Grid
+                                Padding="0, 0, 0, 5"
+                                x:DataType="model:Location">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition
+                                        Height="65"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition
+                                        Width="4*"></ColumnDefinition>
+                                    <ColumnDefinition
+                                        Width="1*"></ColumnDefinition>
+                                    <ColumnDefinition
+                                        Width="1*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Grid.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                        NumberOfTapsRequired="1"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type local:GlizdaViewModel}}, Path=LocationTapped}"
+                                        CommandParameter="{Binding .}">
+                                    </TapGestureRecognizer>
+                                </Grid.GestureRecognizers>
+                                <ContentView
+                                    BackgroundColor="{Binding Size, Converter={StaticResource SizeToColorValueConverter}}"
+                                    Grid.Column="0"
+                                    Padding="10">
+                                    <Label
+                                        Text="{Binding Name}"
+                                        TextColor="Black"
+                                        FontSize="Medium"
+                                        VerticalOptions="Center">
+                                    </Label>
+                                </ContentView>
+                                <ContentView
+                                    BackgroundColor="{Binding Size, Converter={StaticResource SizeToColorValueConverter}}"
+                                    Grid.Column="1"
+                                    Padding="10">
+                                    <Label
+                                        Text="{Binding DifficultyLevel}"
+                                        TextColor="Black"
+                                        FontSize="Medium"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="Center">
+                                    </Label>
+                                </ContentView>
+                                <ContentView
+                                    BackgroundColor="{Binding Size, Converter={StaticResource SizeToColorValueConverter}}"
+                                    Grid.Column="2"
+                                    Padding="10">
+                                    <Label
+                                        Text="{Binding Modifier}"
+                                        TextColor="Black"
+                                        FontSize="Medium"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="Center">
+                                    </Label>
+                                </ContentView>
+                            </Grid>
+                            <!--<ContentView
+                                x:DataType="model:Location">
+                                <Label
+                                    Text="{Binding Articles}"
+                                    TextColor="Black"
+                                    FontSize="Medium"
+                                    VerticalOptions="Center"
+                                    HorizontalOptions="Center">
+                                </Label>
+                            </ContentView>-->
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </ContentView>
+    </StackLayout>
+</ContentPage>

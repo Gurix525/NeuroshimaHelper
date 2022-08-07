@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NeuroshimaDB.Views.ArticleDetailPage"
+    Title="{Binding Title}">
+
+    <StackLayout
+        Spacing="5">
+        <Grid
+            Padding="0, 5, 0, 5"
+            BackgroundColor="Silver">
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="Artykuł"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="Cena"
+                    TextColor="Black"
+                    FontSize="Small"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="%"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    FontAttributes="Bold"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition
+                    Height="65">
+                </RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition
+                    Width="4*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+                <ColumnDefinition
+                    Width="1*">
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="0"
+                Padding="10">
+                <Label
+                    Text="{Binding Name}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="1"
+                Padding="10">
+                <Label
+                    Text="{Binding Price}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+            <ContentView
+                BackgroundColor="AliceBlue"
+                Grid.Column="2"
+                Padding="10">
+                <Label
+                    Text="{Binding Availability, StringFormat='{0}%'}"
+                    TextColor="Black"
+                    FontSize="Medium"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center">
+                </Label>
+            </ContentView>
+        </Grid>
+        <ScrollView>
+            <StackLayout>
+                <ContentView
+                    BackgroundColor="AliceBlue"
+                    Padding="10">
+                    <Label
+                        TextColor="Black"
+                        FontSize="Medium"
+                        Text="{Binding Description}" />
+                </ContentView>
+                <StackLayout
+                    BackgroundColor="PowderBlue"
+                    Padding="10">
+                    <Label
+                        Text="Słowa kluczowe:"
+                        TextColor="SlateGray"
+                        FontSize="Small" />
+                    <Label
+                        Text="{Binding Keywords}"
+                        TextColor="SlateGray"
+                        FontSize="Small" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>
