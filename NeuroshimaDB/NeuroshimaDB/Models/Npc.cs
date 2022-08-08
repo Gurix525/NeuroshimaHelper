@@ -296,7 +296,7 @@ namespace NeuroshimaDB.Models
                 this[i] = outputStats[i]; // Przypisanie współczynników
 
             RandomizeSkills(power);
-
+            RandomizeTrait();
             return true;
         }
 
