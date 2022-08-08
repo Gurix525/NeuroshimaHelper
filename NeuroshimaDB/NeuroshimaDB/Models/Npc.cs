@@ -21,6 +21,8 @@ namespace NeuroshimaDB.Models
         public int Cha { get; set; }
         public int Spr { get; set; }
         public int Bd { get; set; }
+        public string Perk { get; set; }
+        public string PerkDescription { get; set; }
 
         public Dictionary<string, int> Skills
         {
@@ -228,6 +230,20 @@ namespace NeuroshimaDB.Models
                 PT.Templates["Ganger"].SpecialSkills
             };
             CalculateSkills(skills, priority, ref skillPoints);
+        }
+
+        private void RandomizeTrait()
+        {
+            var perks = PT.Templates.ContainsKey(Name) ?
+                PT.Templates[Name].Traits :
+                PT.Templates["Ganger"].Traits;
+            var perkDecsriptions = PT.Templates.ContainsKey(Name) ?
+                PT.Templates[Name].TraitDescriptions :
+                PT.Templates["Ganger"].TraitDescriptions;
+            Dice dice = new(4);
+            int roll = dice.Roll;
+            Perk = perks[roll - 1];
+            PerkDescription = perkDecsriptions[roll - 1];
         }
 
         private void CalculateSkills(string[] skills, int priority, ref int skillPoints)

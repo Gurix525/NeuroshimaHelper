@@ -8,4 +8,17 @@
     xmlns:behaviors="clr-namespace:NeuroshimaDB.Behaviors"
     xmlns:services="clr-namespace:NeuroshimaDB.Services"
     Title="{Binding Title}">
+
+    <StackLayout>
+        <Label
+            Text="{Binding Name}"
+            FontSize="Large"/>
+        <Label
+            Text="{Binding Perk}"
+            FontSize="Medium"
+            FontAttributes="Bold"/>
+        <Label
+            Text="{Binding PerkDescription}"
+            FontSize="Medium"/>
+    </StackLayout>
 </ContentPage>

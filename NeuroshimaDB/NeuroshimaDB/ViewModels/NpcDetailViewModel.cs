@@ -18,6 +18,8 @@ namespace NeuroshimaDB.ViewModels
         private int _spr;
         private int _bud;
         private Dictionary<string, int> _skills;
+        private string _perk;
+        private string _perkDescripion;
 
         public string Id { get; set; }
 
@@ -63,6 +65,18 @@ namespace NeuroshimaDB.ViewModels
             set => SetProperty(ref _skills, value);
         }
 
+        public string Perk
+        {
+            get => _perk;
+            set => SetProperty(ref _perk, value);
+        }
+
+        public string PerkDescription
+        {
+            get => _perkDescripion;
+            set => SetProperty(ref _perkDescripion, value);
+        }
+
         public string ItemId
         {
             get
@@ -94,6 +108,8 @@ namespace NeuroshimaDB.ViewModels
                 Spr = item.Spr;
                 Bud = item.Bd;
                 Skills = item.Skills;
+                Perk = item.Perk;
+                PerkDescription = item.PerkDescription;
             }
             catch (Exception)
             {
